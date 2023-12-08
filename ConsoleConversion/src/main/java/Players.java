@@ -7,13 +7,13 @@
  *
  * @author jeffm
  */
-public class Players {
-    
+ public class Players {
+
 
     private String name;
     private int number;
 
-    
+
     public Players(String name, int number) {
         this.name = name;
         this.number = number;
